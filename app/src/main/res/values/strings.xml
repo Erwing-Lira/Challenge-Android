@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="google_api_key">AIzaSyDueKMj2TnGrhNfUqisXA7wsYP13t_WH-o</string>
+
+    <string name="mx">MEXICO</string>
+    <string name="codigo_postal">Codigo Postal</string>
+    <string name="pais">Pais</string>
+    <string name="entidad">Entidad</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="alcadia_o_municipio">Alcadia o Municipio</string>
+    <string name="colonia">Colonia</string>
+</resources>
