@@ -9,6 +9,6 @@ The home screen: <br>
 
 ![](1.jpeg)
 
-When you finish typing the CP that has 5 numbers, automatically the request to the API will be made to obtain the information and the polygon. <br>
+When you have finished typing the CP that has 5 numbers, automatically the request to the API will be made to obtain the information and the polygon. <br>
 
 ![](2.jpeg)
